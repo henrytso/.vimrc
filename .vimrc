@@ -7,7 +7,8 @@ set number
 set relativenumber
 set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
 set autoindent
-set smartindent
+filetype on
+filetype indent on
 
 set mouse=a
 map <ScrollWheelUp> <C-Y>
